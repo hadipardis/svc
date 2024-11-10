@@ -10,7 +10,7 @@ H. Hadizadeh and I. V. Bajić, “Learned scalable video coding for humans and m
 
 ## Installation
 
-First, clone this repository into a local folder on your machine. Then go to the main folder of the repository, and install YOLOv5 as described in https://github.com/ultralytics/yolov5. This installs all the required packages to run this project.
+First, clone this repository into a local folder on your machine. Then go to the main folder of the repository, and install YOLOv5 as described in https://github.com/ultralytics/yolov5. This installs all the required packages to run this project including torch 2.4.1, numpy 1.24.4, and torchvision 0.19.1.
 
 After that, get the checkpoints from this google drive, and put them in ./checkpoints: 
 
