@@ -12,5 +12,6 @@ Written by Hadi Hadizadeh, 2024.
 First, clone this repository into a local folder on your machine. Then go to the folder, and install YOLOv5 as described in https://github.com/ultralytics/yolov5. This installs all the required packages to run this project.
 
 ## Usage
-To 
+To test the base layer of the proposed system, first convert your input video into RGB frames and put them in a folder such as .\input. For this purpose, you can use ffmpeg. For example, to convert a YUV420 video into RGB frames using ffmpeg, you can use this command:
+```bash ffmpeg
 
