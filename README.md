@@ -1,4 +1,4 @@
-# Project Name
+# Learned Scalable Video Coding for Humans and Machines
 
 A PyTorch implementation for the following paper:
 
