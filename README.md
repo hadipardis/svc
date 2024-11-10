@@ -1,6 +1,6 @@
 # Project Name
 
-A Python implementation for the following paper:
+A PyTorch implementation for the following paper:
 
 H. Hadizadeh and I. V. Bajić, “Learned scalable video coding for humans and machines,” arXiv preprint arXiv:2307.08978, Jul. 2023: https://arxiv.org/abs/2307.08978
 
@@ -12,7 +12,7 @@ H. Hadizadeh and I. V. Bajić, “Learned scalable video coding for humans and m
 
 First, clone this repository into a local folder on your machine. Then go to the main folder of the repository, and install YOLOv5 as described in https://github.com/ultralytics/yolov5. This installs all the required packages to run this project including torch 2.4.1, numpy 1.24.4, and torchvision 0.19.1.
 
-After that, get the checkpoints from this google drive, and put them in ./checkpoints: 
+After that, get the checkpoints from this google drive, and put them in ./checkpoints: https://drive.google.com/drive/folders/1F9TnUgYBxja9DnRT6jgGdZb2EMEsNnvr?usp=sharing
 
 ## Usage
 To test the base layer of the proposed system, begin by converting your input video into RGB frames and saving them in a folder, such as ./input. You can use ffmpeg for this conversion. For example, to convert a YUV420 video into PNG frames, use the following command:
