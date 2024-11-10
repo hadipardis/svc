@@ -15,6 +15,7 @@ First, clone this repository into a local folder on your machine. Then go to the
 To test the base layer of the proposed system, begin by converting your input video into RGB frames and saving them in a folder, such as ./input. You can use ffmpeg for this conversion. For example, to convert a YUV420 video into PNG frames, use the following command:
 ```bash
 ffmpeg -pix_fmt yuv420p -s 1920x1080 -i BasketballDrive_1920x1080_50.yuv -f image2 ./input/im_%03d.png
+'''
 
 In the command above, "im_" will serve as the prefix for each video frame's filename. For instance, the 4th frame will be named im_004.png.
 
