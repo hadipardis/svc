@@ -1,11 +1,13 @@
 # Learned Scalable Video Coding for Humans and Machines
 
-A PyTorch implementation for the following paper:
+This repository presents a PyTorch implementation for the following paper:
 
 H. Hadizadeh and I. V. Bajić, “Learned scalable video coding for humans and machines,” arXiv preprint arXiv:2307.08978, Jul. 2023: https://arxiv.org/abs/2307.08978
 
+
 ![The block diagram of the proposed learned scalable video compression system. The base layer has two outputs: the base frame and the latent features by which the computer vision task is performed. The
 enhancement layer has only one output, which is the reconstructed frame.](main_flowchart2.png)
+
 
 ## Table of Contents
 - [Installation](#installation)
