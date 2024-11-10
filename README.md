@@ -6,7 +6,7 @@ H. Hadizadeh and I. V. Bajić, “Learned scalable video coding for humans and m
 
 
 ![The block diagram of the proposed learned scalable video compression system. The base layer has two outputs: the base frame and the latent features by which the computer vision task is performed. The
-enhancement layer has only one output, which is the reconstructed frame.](main_flowchart2.png)
+enhancement layer has only one output, which is the reconstructed frame.](flowchart.png)
 
 ## Table of Contents
 - [Installation](#installation)
