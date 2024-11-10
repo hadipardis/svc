@@ -9,10 +9,8 @@ Written by Hadi Hadizadeh, 2024.
 
 ## Installation
 
-To get this project up and running locally, follow these steps:
+First, clone this repository into a local folder on your machine. Then go to the folder, and install YOLOv5 as described in https://github.com/ultralytics/yolov5. This installs all the required packages to run this project.
 
-1. **Clone the repository:**
+## Usage
+To 
 
-   Open a terminal and clone the repository using the following command:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
